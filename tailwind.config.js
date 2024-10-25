@@ -6,7 +6,7 @@ export default {
       animation: {
         bganimation: "bganimation .2s infinite",
         rotate:
-          "rotate 50s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite",
+          "rotate 20s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite",
       },
       keyframes: {
         bganimation: {
@@ -32,7 +32,7 @@ export default {
         },
       },
       backgroundImage: {
-        gradient: "linear-gradient(#00FFFF, #ff00ff, #ffff00)",
+        gradient: "linear-gradient(#00b8b8, #b800b8, #b8b800)",
       },
     },
   },
